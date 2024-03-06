@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-![Lev's GitHub stats](https://github-readme-stats.vercel.app/api?username=levushakov&show_icons=true&theme=radical&bg_color=FFFFFF&hide_rank=true)
-
+[![Lev's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=levushakov&show_icons=true&theme=dark#gh-dark-mode-only&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Lev's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=levushakov&show_icons=true&theme=default#gh-light-mode-only&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levushakov&layout=compact)
 
 <!--
 **levushakov/levushakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
