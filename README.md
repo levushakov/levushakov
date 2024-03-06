@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Lev's GitHub stats](https://github-readme-stats.vercel.app/api?username=levushakov&show_icons=true&theme=radical)
+![Lev's GitHub stats](https://github-readme-stats.vercel.app/api?username=levushakov&show_icons=true&theme=radical&hide_rank=true)
 
 <!--
 **levushakov/levushakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
