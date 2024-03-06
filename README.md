@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Lev's GitHub stats](https://github-readme-stats.vercel.app/api?username=levushakov&show_icons=true&theme=radical&bg_color=FFFFFF)
+![Lev's GitHub stats](https://github-readme-stats.vercel.app/api?username=levushakov&show_icons=true&theme=radical&bg_color=FFFFFF&hide_rank=true)
 
 
 <!--
